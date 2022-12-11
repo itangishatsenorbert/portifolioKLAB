@@ -1,0 +1,13 @@
+body{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 2333px;
+height: 1921px;
+
+background: (255,255,255);
+}
